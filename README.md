@@ -4,4 +4,4 @@ En el siguiente proyecto, implementaré la programación con un lenguaje SQL. Po
 
 Mi objetivo es encontrar patrones en la información disponible, para comprender las preferencias de los pasajeros y el impacto de los factores externos en los viajes.
 
-Esta tarea la desarrollaré desde el Visual Studio Code en un archivo 'ipynb'. Prepararé y limpiaré los datos para el anáslisis, realizaré gráficos para visualizar más claramente y comparar algunas variables, e incluiré conclusiones acerca de los resultados obtenidos.
+Esta tarea la desarrollaré desde el Visual Studio Code en un archivo 'ipynb', utilizando Python y SQL como lenguajes de programación. Prepararé y limpiaré los datos para el anáslisis, realizaré gráficos para visualizar más claramente y comparar algunas variables, e incluiré conclusiones acerca de los resultados obtenidos.
